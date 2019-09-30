@@ -1,3 +1,3 @@
 # MNIST
-Handwritten digit recognition
+Handwritten digit recognition,
 Currently under development
